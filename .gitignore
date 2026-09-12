@@ -1,0 +1,14 @@
+# 构建产物
+build/
+.gradle/
+
+# 编译产物
+*.class
+
+# 打包的 jar（发布走 GitHub Release，不提交进仓库）
+*.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
